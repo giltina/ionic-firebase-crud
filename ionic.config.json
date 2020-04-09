@@ -1,0 +1,7 @@
+{
+  "name": "FirestoreCrud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
